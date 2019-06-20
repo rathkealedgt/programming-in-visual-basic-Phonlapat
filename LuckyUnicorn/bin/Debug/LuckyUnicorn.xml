@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LuckyUnicorn
+</name>
+</assembly>
+<members>
+<member name="T:LuckyUnicorn.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:LuckyUnicorn.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:LuckyUnicorn.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:LuckyUnicorn.Module1.Main">
+ <summary>
+     Lucky Unicorn Decomposition Task 1
+     Get initial amount from user and check that it is valid.
+ </summary>
+ <author> Mr. M </author>
+ <date> 20Jun19 </date>
+</member>
+<member name="M:LuckyUnicorn.Module1.IntegerCheck(System.Int32,System.Int32)">
+ <summary>
+     Integer checking function. Checks if user input is an integer between the values given.
+ </summary>
+ <param name="LowNumber"> Lower bound of the valid range. </param>
+ <param name="HighNumber"> Upper bound of the valid range. </param>
+ <returns> The valid user input as an integer. </returns>
+</member>
+</members>
+</doc>

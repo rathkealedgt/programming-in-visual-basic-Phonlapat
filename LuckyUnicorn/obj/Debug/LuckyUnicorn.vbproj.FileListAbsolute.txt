@@ -1,0 +1,11 @@
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe.config
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\bin\Debug\LuckyUnicorn.exe
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\bin\Debug\LuckyUnicorn.pdb
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\bin\Debug\LuckyUnicorn.xml
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbprojAssemblyReference.cache
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.Resources.resources
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.GenerateResource.cache
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.vbproj.CoreCompileInputs.cache
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.exe
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.xml
+C:\Users\lee.macri.TRINITY.000\source\repos\LuckyUnicorn\obj\Debug\LuckyUnicorn.pdb
