@@ -8,17 +8,25 @@ Module Module1
 
     Sub Main()
         ' Housekeeping
-        Dim UserResponse As String
+        Dim UserInput As String
+        Dim KeepGoing As String = ""
 
-        ' Ask user if they like coffee and record their answer.
-        Console.WriteLine("Do you like coffee?")
-        UserResponse = Console.ReadLine()
+        While KeepGoing = ""
+            ' Ask user if they like coffee and record their answer.
+            Console.WriteLine("Do you like coffee?")
+            UserInput = Console.ReadLine().ToLower()
 
-        ' Check input and respond
+            ' Check input and respond
+            If UserInput = "yes" Or UserInput = "y" Then
+                Console.WriteLine("I Like coffee too!")
+            ElseIf UserInput = "no" Or UserInput = "n" Then
+                Console.WriteLine("Your life must be empty!")
+            End If
 
-
-        ' Pause program to let the user read 
-        Console.ReadLine()
+            ' Pause program to let the user read 
+            Console.WriteLine("Press q followed by <Enter> to quite.")
+            KeepGoing = Console.ReadLine()
+        End While
 
     End Sub
 

@@ -9,3 +9,14 @@ C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.vb
 C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.exe
 C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.xml
 C:\Users\lee.macri.TRINITY.000\source\repos\04_TryCatch\obj\Debug\04_TryCatch.pdb
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\bin\Debug\04_TryCatch.exe.config
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\bin\Debug\04_TryCatch.exe
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\bin\Debug\04_TryCatch.pdb
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\bin\Debug\04_TryCatch.xml
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\04_TryCatch.vbprojAssemblyReference.cache
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\_04_TryCatch.Resources.resources
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\04_TryCatch.vbproj.GenerateResource.cache
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\04_TryCatch.vbproj.CoreCompileInputs.cache
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\04_TryCatch.exe
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\04_TryCatch.xml
+C:\Users\Phonpat\Documents\GitHub\programming-in-visual-basic-Phonlapat\04_TryCatch\obj\Debug\04_TryCatch.pdb

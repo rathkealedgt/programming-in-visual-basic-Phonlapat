@@ -1,16 +1,5 @@
 ﻿Module Module1
-    ''' <summary>
-    '''     Lucky Unicorn Decomposition Task 1
-    '''     Get initial amount from user and check that it is valid.
-    ''' </summary>
-    ''' <author> Mr. M </author>
-    ''' <date> 20Jun19 </date>
-    Sub Main()
-        ' Housekeeping
-        Dim HowMuch As Integer
 
-
-    End Sub
 
     ''' <summary>
     '''     Integer checking function. Checks if user input is an integer between the values given.
